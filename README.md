@@ -36,8 +36,8 @@ chatbot-with-textblob/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chatbot-textblob.git
-cd chatbot-textblob
+git clone https://github.com/Broken-Frog/ChatBoat_textbolb_python.git
+cd ChatBoat_textbolb_python
 ```
 
 ### 2. (Optional) Create a Virtual Environment
